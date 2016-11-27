@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order_entries">
+        <item>Mais Popular</item>
+        <item>Mais Bem Avaliado</item>
+    </string-array>
+    <string-array name="order_values">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+    </string-array>
+</resources>
